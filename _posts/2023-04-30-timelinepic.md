@@ -4,4 +4,5 @@ date:   2023-04-28
 categories: [timeline]
 tags: [timeline]
 ---
-![timeline3](/timeline/3.png "timeline3")
+
+ <img src="{{ site.baseurl }}/timeline/3.png" alt="timeline3">
